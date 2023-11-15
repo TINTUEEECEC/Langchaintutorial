@@ -55,11 +55,11 @@ TCL_LIBS='kernel32.lib advapi32.lib netapi32.lib user32.lib userenv.lib ws2_32.l
 
 # Top-level directory in which Tcl's platform-independent files are
 # installed.
-TCL_PREFIX='E:/ProjectLangchain/Langchain/langenv\Library'
+TCL_PREFIX='e:/ProjectLangchain/Langchain/langenv\Library'
 
 # Top-level directory in which Tcl's platform-specific files (e.g.
 # executables) are installed.
-TCL_EXEC_PREFIX='E:/ProjectLangchain/Langchain/langenv\Library\bin'
+TCL_EXEC_PREFIX='e:/ProjectLangchain/Langchain/langenv\Library\bin'
 
 # Flags to pass to cc when compiling the components of a shared library:
 TCL_SHLIB_CFLAGS=''
@@ -115,11 +115,11 @@ TCL_BUILD_LIB_SPEC=''
 
 # String to pass to linker to pick up the Tcl library from its
 # installed directory.
-TCL_LIB_SPEC='E:/ProjectLangchain/Langchain/langenv\Library\lib\tcl86t.lib'
+TCL_LIB_SPEC='e:/ProjectLangchain/Langchain/langenv\Library\lib\tcl86t.lib'
 
 # String to pass to the compiler so that an extension can
 # find installed Tcl headers.
-TCL_INCLUDE_SPEC='-IE:/ProjectLangchain/Langchain/langenv\Library\include'
+TCL_INCLUDE_SPEC='-Ie:/ProjectLangchain/Langchain/langenv\Library\include'
 
 # Indicates whether a version numbers should be used in -l switches
 # ("ok" means it's safe to use switches like -ltcl7.5;  "nodots" means
@@ -168,13 +168,13 @@ TCL_BUILD_STUB_LIB_SPEC='-LD:\bld\tk_1699201897784\work\tcl8.6.13\win\Release_AM
 
 # String to pass to linker to pick up the Tcl stub library from its
 # installed directory.
-TCL_STUB_LIB_SPEC='-LE:/ProjectLangchain/Langchain/langenv\Library\lib tclstub86.lib'
+TCL_STUB_LIB_SPEC='-Le:/ProjectLangchain/Langchain/langenv\Library\lib tclstub86.lib'
 
 # Path to the Tcl stub library in the build directory.
 TCL_BUILD_STUB_LIB_PATH='D:\bld\tk_1699201897784\work\tcl8.6.13\win\Release_AMD64_VC1929\tclstub86.lib'
 
 # Path to the Tcl stub library in the install directory.
-TCL_STUB_LIB_PATH='E:/ProjectLangchain/Langchain/langenv\Library\lib\tclstub86.lib'
+TCL_STUB_LIB_PATH='e:/ProjectLangchain/Langchain/langenv\Library\lib\tclstub86.lib'
 
 # Flag, 1: we built Tcl with threads enabled, 0 we didn't
 TCL_THREADS=1

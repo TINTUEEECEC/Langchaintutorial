@@ -3019,7 +3019,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "setuptools",
   "sha256": "851901b1f8f2049edb36a675f0c3f9a98e1495ef4eb214761b048c6f696a06f7",
   "size": 464399,
   "subdir": "noarch",

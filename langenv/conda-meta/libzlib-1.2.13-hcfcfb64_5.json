@@ -46,7 +46,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "libzlib",
   "sha256": "c161822ee8130b71e08b6d282b9919c1de2c5274b29921a867bca0f7d30cad26",
   "size": 55800,
   "subdir": "win-64",

@@ -714,7 +714,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "ucrt",
   "sha256": "f29cdaf8712008f6b419b8b1a403923b00ab2504bfe0fb2ba8eb60e72d4f14c6",
   "size": 1283972,
   "subdir": "win-64",

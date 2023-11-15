@@ -39,7 +39,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "ca-certificates",
   "sha256": "b85a6f307f8e1c803cb570bdfb9e4d811a361417873ecd2ecf687587405a72e0",
   "size": 150013,
   "subdir": "win-64",

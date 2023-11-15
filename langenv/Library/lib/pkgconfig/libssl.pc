@@ -1,4 +1,4 @@
-prefix=E:/ProjectLangchain/Langchain/langenv/Library 
+prefix=e:/ProjectLangchain/Langchain/langenv/Library 
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

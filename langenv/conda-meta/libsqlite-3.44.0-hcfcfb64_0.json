@@ -59,7 +59,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "libsqlite",
   "sha256": "b2be4125343d89765269b537e90ea5ab7f219e7398e7ad610ddcdcf31e7b9e65",
   "size": 852871,
   "subdir": "win-64",
