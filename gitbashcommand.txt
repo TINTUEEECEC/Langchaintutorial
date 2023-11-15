@@ -708,3 +708,44 @@ Please update conda by running
 (E:\ProjectLangchain\Langchainpty1angenv)
 TINTU THOMAS@TINTU-THOMAS-VANIYAKERIYIL MINGW64 /e/ProjectLangchain/Langchain (master)
 $
+***********************************************************************************************
+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
+************************************************************************************************
+(E:\ProjectLangchain\Langchainpty1angenv)
+TINTU THOMAS@TINTU-THOMAS-VANIYAKERIYIL MINGW64 /e/ProjectLangchain/Langchain (master)
+$ pip install PyPDF2
+Collecting PyPDF2
+  Downloading pypdf2-3.0.1-py3-none-any.whl (232 kB)
+     ------------------------------------ 232.6/232.6 kB 258.5 kB/s eta 0:00:00
+Requirement already satisfied: typing_extensions>=3.10.0.0 in e:\projectlangchain\langchain\langenv\lib\site-packages (from PyPDF2) (4.8.0)
+Installing collected packages: PyPDF2
+Successfully installed PyPDF2-3.0.1
+(E:\ProjectLangchain\Langchainpty1angenv)
+TINTU THOMAS@TINTU-THOMAS-VANIYAKERIYIL MINGW64 /e/ProjectLangchain/Langchain (master)
+$ pip install tiktoken
+Collecting tiktoken
+  Downloading tiktoken-0.5.1-cp39-cp39-win_amd64.whl.metadata (6.8 kB)
+Collecting regex>=2022.1.18 (from tiktoken)
+  Downloading regex-2023.10.3-cp39-cp39-win_amd64.whl.metadata (41 kB)
+     -------------------------------------- 42.0/42.0 kB 119.3 kB/s eta 0:00:00
+Requirement already satisfied: requests>=2.26.0 in e:\projectlangchain\langchain\langenv\lib\site-packages (from tiktoken) (2.31.0)
+Requirement already satisfied: charset-normalizer<4,>=2 in e:\projectlangchain\langchain\langenv\lib\site-packages (from requests>=2.26.0->tiktoken) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in e:\projectlangchain\langchain\langenv\lib\site-packages (from requests>=2.26.0->tiktoken) (3.4)
+Requirement already satisfied: urllib3<3,>=1.21.1 in e:\projectlangchain\langchain\langenv\lib\site-packages (from requests>=2.26.0->tiktoken) (2.1.0)
+Requirement already satisfied: certifi>=2017.4.17 in e:\projectlangchain\langchain\langenv\lib\site-packages (from requests>=2.26.0->tiktoken) (2023.7.22)
+Downloading tiktoken-0.5.1-cp39-cp39-win_amd64.whl (760 kB)
+   ---------------------------------------- 760.0/760.0 kB 2.8 MB/s eta 0:00:00
+Downloading regex-2023.10.3-cp39-cp39-win_amd64.whl (269 kB)
+   ---------------------------------------- 269.6/269.6 kB 2.4 MB/s eta 0:00:00
+Installing collected packages: regex, tiktoken
+Successfully installed regex-2023.10.3 tiktoken-0.5.1
+(E:\ProjectLangchain\Langchainpty1angenv)
+TINTU THOMAS@TINTU-THOMAS-VANIYAKERIYIL MINGW64 /e/ProjectLangchain/Langchain (master)
+$ pip install faiss-cpu
+Collecting faiss-cpu
+  Downloading faiss_cpu-1.7.4-cp39-cp39-win_amd64.whl (10.8 MB)
+     ---------------------------------------- 10.8/10.8 MB 2.9 MB/s eta 0:00:00
+Installing collected packages: faiss-cpu
+Successfully installed faiss-cpu-1.7.4
+(E:\ProjectLangchain\Langchainpty1angenv)
+TINTU THOMAS@TINTU-THOMAS-VANIYAKERIYIL MINGW64 /e/ProjectLangchain/Langchain (master)
